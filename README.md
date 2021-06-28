@@ -1,4 +1,4 @@
-# Your GitHub repository for your course "CodeQL Unsafe JQuery"
+# Your GitHub repository for your course "CodeQL Unsafe JQuery"水水水
 
 **Welcome to this course!**
 For each step of the course, there will be a new issue created in this project with instructions for you to follow.
